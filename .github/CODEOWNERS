@@ -16,7 +16,7 @@
 # Each line is a file pattern followed by one or more owners.
 # /folder1/ @username1
 # /folder2/ @username2
-# /collabspace/LajiThomas/ @lajik2025
+/collabspace/LajiThomas/ @lajik2025
 collabspace/topics/* @uchicago-econ-io/contentmoderators
 # collabspace/topics/sampletopic @lajik2025
 # collabspace/topics/sampletopic/ResearcherName1 Reaercher_e@emailaddress.com
